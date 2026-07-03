@@ -126,5 +126,6 @@ Báo cáo khoa học chi tiết về thiết kế hệ thống, thuật toán ph
 
 ---
 
-## 👥 Nhóm Tác Giả & Bản Quyền
-Dự án được phát triển nhằm mục đích nghiên cứu và ứng dụng công nghệ AI vào bài toán tối ưu hóa an toàn giao thông tại Việt Nam. Mọi đóng góp và phản hồi vui lòng tạo Issue hoặc Pull Request trên Repository này.
+## 👥 Tác Giả & Bản Quyền
+Dự án được phát triển bởi **Đỗ Công Trí** nhằm mục đích nghiên cứu và ứng dụng công nghệ AI vào bài toán tối ưu hóa an toàn giao thông tại Việt Nam. Mọi đóng góp và phản hồi vui lòng tạo Issue hoặc Pull Request trên Repository này.
+
